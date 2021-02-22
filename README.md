@@ -1,5 +1,5 @@
 # Postgresql-Database-Migration-Python
-The aim of project is to make migration of postgreSQL db using python alembic tool
+The aim of project is to make migration of postgreSQL db using python alembic tool. In this project, first students and interest table were created. Then columns from students and interest table updated and migrated accordingly. 
 To use this project u need to have Postgresql, Python, Alembic, Psycopg2 installed in ur comp. 
 Python is connected to Postgres DB Server. Using Psycopg2 database adapter, sample table data has been created. Alembic used to generate  migration and rollback script. 
 HOW TO USE THE PROGRAM  ?
